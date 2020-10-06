@@ -1,0 +1,10 @@
+{
+    "name": "msfs-a320neo-vanilla",
+    "version": "1.7.12",
+    "scripts": {
+        "lint": "eslint ./**/*.js --fix"
+    },
+    "devDependencies": {
+        "eslint": "7.10.0"
+    }
+}
